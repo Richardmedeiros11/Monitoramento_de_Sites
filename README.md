@@ -1,6 +1,6 @@
--- SoftWare 1 --
+-- ScanSitesMy --
 
-software focado no monitoramento de Sites! Para ele funcionar
+ScanSitesMy é focado no monitoramento de Sites! Para ele funcionar
 voce deve obrigatoriamente cadastar um site nas configuracoes!
 
 Como usar?

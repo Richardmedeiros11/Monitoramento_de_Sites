@@ -1,5 +1,6 @@
 {
-    "Nome" : "SoftWare de Estudos",
+    "Objetivo" : "SoftWare de Estudos",
+    "nome" : "ScanSitesMy"
     "Version" : "0.0.1",
     "Devs" : "Richard Medeiros"
 }
